@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataExtractor", "DataExtractor\DataExtractor.csproj", "{0F7241EA-ED5E-4185-BC78-5277AD0A0350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataExtractor.Tests", "DataExtractor.Tests\DataExtractor.Tests.csproj", "{BFA29FC0-2C5E-4A33-AC66-B6D46B543446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7241EA-ED5E-4185-BC78-5277AD0A0350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7241EA-ED5E-4185-BC78-5277AD0A0350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7241EA-ED5E-4185-BC78-5277AD0A0350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7241EA-ED5E-4185-BC78-5277AD0A0350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA29FC0-2C5E-4A33-AC66-B6D46B543446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA29FC0-2C5E-4A33-AC66-B6D46B543446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA29FC0-2C5E-4A33-AC66-B6D46B543446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA29FC0-2C5E-4A33-AC66-B6D46B543446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70D0AD99-A690-42E2-9E8B-49AE6D18C084}
+	EndGlobalSection
+EndGlobal
